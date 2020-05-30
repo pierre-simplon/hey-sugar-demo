@@ -1,0 +1,4 @@
+[build]
+  base = "hey-sugar-client/"
+  publish = "public/"
+  command = "yarn build"
